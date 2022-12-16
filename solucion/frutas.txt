@@ -1,0 +1,4 @@
+banana 1
+manzana 2
+pera 5
+frutilla 4
