@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/TP2_Andypolis.dir/juego.cpp.o CMakeFiles/TP2_Andypolis.dir/main.cpp.o -o TP2_Andypolis 

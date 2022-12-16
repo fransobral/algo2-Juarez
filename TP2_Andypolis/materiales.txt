@@ -1,0 +1,3 @@
+piedra 9375
+madera 9475
+metal 9767

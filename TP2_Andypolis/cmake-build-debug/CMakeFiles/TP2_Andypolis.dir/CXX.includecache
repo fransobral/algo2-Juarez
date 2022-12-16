@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/h/My Drive/1 Anio/Algo y Programacion 2/TP2_Andypolis/juego.cpp
+fstream
+-
+iostream
+-
+juego.h
+/mnt/h/My Drive/1 Anio/Algo y Programacion 2/TP2_Andypolis/juego.h
+
+/mnt/h/My Drive/1 Anio/Algo y Programacion 2/TP2_Andypolis/juego.h
+string
+-
+
+/mnt/h/My Drive/1 Anio/Algo y Programacion 2/TP2_Andypolis/main.cpp
+iostream
+-
+juego.h
+/mnt/h/My Drive/1 Anio/Algo y Programacion 2/TP2_Andypolis/juego.h
+

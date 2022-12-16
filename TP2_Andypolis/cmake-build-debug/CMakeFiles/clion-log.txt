@@ -1,0 +1,4 @@
+C:\WINDOWS\system32\wsl.exe --distribution Ubuntu --exec /bin/sh -c "export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd '/mnt/h/My Drive/1 Anio/Algo y Programacion 2/TP2_Andypolis/cmake-build-debug' && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G 'CodeBlocks - Unix Makefiles' '/mnt/h/My Drive/1 Anio/Algo y Programacion 2/TP2_Andypolis'; exitcode=$?; sleep 0.001; (exit $exitcode)"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/h/My Drive/1 Anio/Algo y Programacion 2/TP2_Andypolis/cmake-build-debug

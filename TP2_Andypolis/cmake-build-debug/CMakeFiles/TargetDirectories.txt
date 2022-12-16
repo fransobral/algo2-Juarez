@@ -1,0 +1,3 @@
+/mnt/h/My Drive/1 Anio/Algo y Programacion 2/TP2_Andypolis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/h/My Drive/1 Anio/Algo y Programacion 2/TP2_Andypolis/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/h/My Drive/1 Anio/Algo y Programacion 2/TP2_Andypolis/cmake-build-debug/CMakeFiles/TP2_Andypolis.dir
