@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/My Drive/1 Anio/Algo y Programacion 2/agendaDinamicaResolucion/agenda/main.cpp
+iostream
+-
+utiles.h
+H:/My Drive/1 Anio/Algo y Programacion 2/agendaDinamicaResolucion/agenda/utiles.h
+
+H:/My Drive/1 Anio/Algo y Programacion 2/agendaDinamicaResolucion/agenda/utiles.cpp
+iostream
+-
+utiles.h
+H:/My Drive/1 Anio/Algo y Programacion 2/agendaDinamicaResolucion/agenda/utiles.h
+fstream
+-
+
+H:/My Drive/1 Anio/Algo y Programacion 2/agendaDinamicaResolucion/agenda/utiles.h
+string
+-
+
